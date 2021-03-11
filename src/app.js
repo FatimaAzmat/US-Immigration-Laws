@@ -1,27 +1,34 @@
-// if the data you are going to import is small, then you can import it using es6 import
-// (I like to use use screaming snake case for imported json)
-// import MY_DATA from './app/data/example.json'
-
-import {myExampleUtil} from './utils';
-import {select} from 'd3-selection';
-// this command imports the css file, if you remove it your css wont be applied!
 import './main.css';
+import {select} from 'd3-selection';
+import PieChart from './charts/pie-chart';
 
-// this is just one example of how to import data. there are lots of ways to do it!
-fetch('./data/example.json')
-  .then(response => response.json())
-  .then(data => myVis(data))
-  .catch(e => {
-    console.log(e);
-  });
+fetch('./data/stateaggfinal.json')
+  .then(x => x.json())
+  .then(main);
 
-function myVis(data) {
-  const width = 5000;
-  const height = (36 / 24) * width;
-  console.log(data, height);
-  console.log('Hi!');
-  // EXAMPLE FIRST FUNCTION
-  select('#app')
-    .append('h1')
-    .text('hi!');
+
+const slides = [
+  {
+    title: 'Exploring the correlation between immigration inclusivity and socio-political factors',
+    content:'This scatterplot allows us to explore the correlation between four variables: Immigration Inclusivity Score, Percent Change of Foreign Born Population from 1990-2015, Gross State Product, and Political Ideology of the state',
+    render: data => PieChart(data),
+  },
+];
+
+function main(data) {
+
+  // configuration stuff
+  const header = select('#slide-detail h3');
+  const body = select('#slide-detail p');
+
+    // "draw loop"
+  function renderSlide() {
+    const currentSlide = slides[0];
+    header.text(currentSlide.title);
+    body.text(currentSlide.content);
+    currentSlide.render(data);
+  }
+  renderSlide();
 }
+
+

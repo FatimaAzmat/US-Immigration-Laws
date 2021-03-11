@@ -1,0 +1,402 @@
+[
+ {
+   "state": "Alabama",
+   "ID": 1,
+   "pct_change_fbp": 3.5,
+   "political_ideology": -29.33969574,
+   "gross_state_product": 36.76283333,
+   "inclusivity_score": -1.01823077
+ },
+ {
+   "state": "Alaska",
+   "ID": 2,
+   "pct_change_fbp": 7.9,
+   "political_ideology": -17.22523575,
+   "gross_state_product": 67.79625,
+   "inclusivity_score": -0.671046834
+ },
+ {
+   "state": "Arizona",
+   "ID": 4,
+   "pct_change_fbp": 13.4,
+   "political_ideology": -14.46075992,
+   "gross_state_product": 40.03666667,
+   "inclusivity_score": -0.809256926
+ },
+ {
+   "state": "Arkansas",
+   "ID": 5,
+   "pct_change_fbp": 4.8,
+   "political_ideology": -26.24020826,
+   "gross_state_product": 35.43616667,
+   "inclusivity_score": 0.056894666
+ },
+ {
+   "state": "California",
+   "ID": 6,
+   "pct_change_fbp": 27.3,
+   "political_ideology": 0.157147295,
+   "gross_state_product": 54.38441667,
+   "inclusivity_score": 2.125518838
+ },
+ {
+   "state": "Colorado",
+   "ID": 8,
+   "pct_change_fbp": 9.8,
+   "political_ideology": -13.23461694,
+   "gross_state_product": 51.0505,
+   "inclusivity_score": 0.333697248
+ },
+ {
+   "state": "Connecticut",
+   "ID": 9,
+   "pct_change_fbp": 14.5,
+   "political_ideology": -3.81068343,
+   "gross_state_product": 65.15033333,
+   "inclusivity_score": 1.93168066
+ },
+ {
+   "state": "Delaware",
+   "ID": 10,
+   "pct_change_fbp": 9.3,
+   "political_ideology": -1.217007416,
+   "gross_state_product": 64.16958333,
+   "inclusivity_score": 0.989085889
+ },
+ {
+   "state": "Florida",
+   "ID": 12,
+   "pct_change_fbp": 20.2,
+   "political_ideology": -15.41900129,
+   "gross_state_product": 40.0145,
+   "inclusivity_score": 0.624089239
+ },
+ {
+   "state": "Georgia",
+   "ID": 13,
+   "pct_change_fbp": 10,
+   "political_ideology": -20.10725558,
+   "gross_state_product": 44.08766667,
+   "inclusivity_score": 0.022229103
+ },
+ {
+   "state": "Hawaii",
+   "ID": 15,
+   "pct_change_fbp": 17.7,
+   "political_ideology": 2.187256936,
+   "gross_state_product": 50.14441667,
+   "inclusivity_score": 0.84069505
+ },
+ {
+   "state": "Idaho",
+   "ID": 16,
+   "pct_change_fbp": 5.7,
+   "political_ideology": -33.90159875,
+   "gross_state_product": 35.49083333,
+   "inclusivity_score": -0.529466764
+ },
+ {
+   "state": "Illinois",
+   "ID": 17,
+   "pct_change_fbp": 14.2,
+   "political_ideology": -7.447715201,
+   "gross_state_product": 52.04833333,
+   "inclusivity_score": 1.16192102
+ },
+ {
+   "state": "Indiana",
+   "ID": 18,
+   "pct_change_fbp": 4.9,
+   "political_ideology": -19.31274936,
+   "gross_state_product": 43.59116667,
+   "inclusivity_score": -0.352477666
+ },
+ {
+   "state": "Iowa",
+   "ID": 19,
+   "pct_change_fbp": 4.8,
+   "political_ideology": -15.92359876,
+   "gross_state_product": 47.64725,
+   "inclusivity_score": 0.266429797
+ },
+ {
+   "state": "Kansas",
+   "ID": 20,
+   "pct_change_fbp": 7.1,
+   "political_ideology": -25.44297094,
+   "gross_state_product": 45.02575,
+   "inclusivity_score": -0.363469987
+ },
+ {
+   "state": "Kentucky",
+   "ID": 21,
+   "pct_change_fbp": 3.6,
+   "political_ideology": -22.61155076,
+   "gross_state_product": 38.0835,
+   "inclusivity_score": 0.063553785
+ },
+ {
+   "state": "Louisiana",
+   "ID": 22,
+   "pct_change_fbp": 4,
+   "political_ideology": -29.70937286,
+   "gross_state_product": 46.12483333,
+   "inclusivity_score": 0.596420654
+ },
+ {
+   "state": "Maine",
+   "ID": 23,
+   "pct_change_fbp": 3.4,
+   "political_ideology": -15.41040587,
+   "gross_state_product": 38.36275,
+   "inclusivity_score": 0.098015816
+ },
+ {
+   "state": "Maryland",
+   "ID": 24,
+   "pct_change_fbp": 15.2,
+   "political_ideology": -1.729732004,
+   "gross_state_product": 53.62066667,
+   "inclusivity_score": 1.033940919
+ },
+ {
+   "state": "Massachusetts",
+   "ID": 25,
+   "pct_change_fbp": 16.1,
+   "political_ideology": 6.934114391,
+   "gross_state_product": 61.55808333,
+   "inclusivity_score": 0.195060583
+ },
+ {
+   "state": "Michigan",
+   "ID": 26,
+   "pct_change_fbp": 6.6,
+   "political_ideology": -13.56268675,
+   "gross_state_product": 40.9645,
+   "inclusivity_score": 0.612087942
+ },
+ {
+   "state": "Minnesota",
+   "ID": 27,
+   "pct_change_fbp": 8.3,
+   "political_ideology": -11.11710041,
+   "gross_state_product": 51.73,
+   "inclusivity_score": 0.681187205
+ },
+ {
+   "state": "Mississippi",
+   "ID": 28,
+   "pct_change_fbp": 2.4,
+   "political_ideology": -27.67065294,
+   "gross_state_product": 31.761,
+   "inclusivity_score": -0.768322452
+ },
+ {
+   "state": "Missouri",
+   "ID": 29,
+   "pct_change_fbp": 4,
+   "political_ideology": -21.69430841,
+   "gross_state_product": 42.49883333,
+   "inclusivity_score": -0.165653769
+ },
+ {
+   "state": "Montana",
+   "ID": 30,
+   "pct_change_fbp": 2.1,
+   "political_ideology": -21.87246387,
+   "gross_state_product": 38.10041667,
+   "inclusivity_score": -0.322398509
+ },
+ {
+   "state": "Nebraska",
+   "ID": 31,
+   "pct_change_fbp": 6.8,
+   "political_ideology": -26.70133306,
+   "gross_state_product": 50.033,
+   "inclusivity_score": -0.018018505
+ },
+ {
+   "state": "Nevada",
+   "ID": 32,
+   "pct_change_fbp": 19.3,
+   "political_ideology": -12.22819401,
+   "gross_state_product": 46.87441667,
+   "inclusivity_score": 1.008818163
+ },
+ {
+   "state": "New Hampshire",
+   "ID": 33,
+   "pct_change_fbp": 6,
+   "political_ideology": -10.85517306,
+   "gross_state_product": 48.92416667,
+   "inclusivity_score": -0.233786304
+ },
+ {
+   "state": "New Jersey",
+   "ID": 34,
+   "pct_change_fbp": 22.1,
+   "political_ideology": -2.033548307,
+   "gross_state_product": 56.15533333,
+   "inclusivity_score": 1.515445545
+ },
+ {
+   "state": "New Mexico",
+   "ID": 35,
+   "pct_change_fbp": 9.4,
+   "political_ideology": -8.776942719,
+   "gross_state_product": 40.75575,
+   "inclusivity_score": 0.960023367
+ },
+ {
+   "state": "New York",
+   "ID": 36,
+   "pct_change_fbp": 22.9,
+   "political_ideology": 1.402154921,
+   "gross_state_product": 61.4155,
+   "inclusivity_score": 0.894684953
+ },
+ {
+   "state": "North Carolina",
+   "ID": 37,
+   "pct_change_fbp": 7.9,
+   "political_ideology": -17.4961672,
+   "gross_state_product": 44.1425,
+   "inclusivity_score": -0.163646114
+ },
+ {
+   "state": "North Dakota",
+   "ID": 38,
+   "pct_change_fbp": 3.8,
+   "political_ideology": -34.31993973,
+   "gross_state_product": 56.11808333,
+   "inclusivity_score": 0.499797293
+ },
+ {
+   "state": "Ohio",
+   "ID": 39,
+   "pct_change_fbp": 4.3,
+   "political_ideology": -13.58712815,
+   "gross_state_product": 44.76716667,
+   "inclusivity_score": 0.617289427
+ },
+ {
+   "state": "Oklahoma",
+   "ID": 40,
+   "pct_change_fbp": 6,
+   "political_ideology": -30.93335948,
+   "gross_state_product": 41.25725,
+   "inclusivity_score": -0.533844053
+ },
+ {
+   "state": "Oregon",
+   "ID": 41,
+   "pct_change_fbp": 9.9,
+   "political_ideology": -7.776487172,
+   "gross_state_product": 48.23316667,
+   "inclusivity_score": 0.419883661
+ },
+ {
+   "state": "Pennsylvania",
+   "ID": 42,
+   "pct_change_fbp": 6.5,
+   "political_ideology": -13.12509818,
+   "gross_state_product": 47.32275,
+   "inclusivity_score": 1.249930105
+ },
+ {
+   "state": "Rhode Island",
+   "ID": 43,
+   "pct_change_fbp": 13.5,
+   "political_ideology": 7.084476896,
+   "gross_state_product": 46.70725,
+   "inclusivity_score": 1.812378756
+ },
+ {
+   "state": "South Carolina",
+   "ID": 45,
+   "pct_change_fbp": 4.8,
+   "political_ideology": -24.8746796,
+   "gross_state_product": 36.35925,
+   "inclusivity_score": -1.380992684
+ },
+ {
+   "state": "South Dakota",
+   "ID": 46,
+   "pct_change_fbp": 3.2,
+   "political_ideology": -27.86636886,
+   "gross_state_product": 45.88033333,
+   "inclusivity_score": 0.190167531
+ },
+ {
+   "state": "Tennessee",
+   "ID": 47,
+   "pct_change_fbp": 5,
+   "political_ideology": -22.32844404,
+   "gross_state_product": 41.31408333,
+   "inclusivity_score": -0.451985124
+ },
+ {
+   "state": "Texas",
+   "ID": 48,
+   "pct_change_fbp": 17,
+   "political_ideology": -23.21257004,
+   "gross_state_product": 49.66866667,
+   "inclusivity_score": 1.079099474
+ },
+ {
+   "state": "Utah",
+   "ID": 49,
+   "pct_change_fbp": 8.2,
+   "political_ideology": -27.78102775,
+   "gross_state_product": 42.98266667,
+   "inclusivity_score": 0.043409593
+ },
+ {
+   "state": "Vermont",
+   "ID": 50,
+   "pct_change_fbp": 4.5,
+   "political_ideology": 13.49765437,
+   "gross_state_product": 42.4465,
+   "inclusivity_score": 0.952824475
+ },
+ {
+   "state": "Virginia",
+   "ID": 51,
+   "pct_change_fbp": 12.2,
+   "political_ideology": -14.37189285,
+   "gross_state_product": 51.81191667,
+   "inclusivity_score": 0.268915185
+ },
+ {
+   "state": "Washington",
+   "ID": 53,
+   "pct_change_fbp": 13.7,
+   "political_ideology": -4.695297893,
+   "gross_state_product": 54.12641667,
+   "inclusivity_score": 1.583826511
+ },
+ {
+   "state": "West Virginia",
+   "ID": 54,
+   "pct_change_fbp": 1.6,
+   "political_ideology": -22.91064084,
+   "gross_state_product": 35.18766667,
+   "inclusivity_score": -0.738457567
+ },
+ {
+   "state": "Wisconsin",
+   "ID": 55,
+   "pct_change_fbp": 4.8,
+   "political_ideology": -13.42132359,
+   "gross_state_product": 45.48225,
+   "inclusivity_score": 1.372572831
+ },
+ {
+   "state": "Wyoming",
+   "ID": 56,
+   "pct_change_fbp": 3.8,
+   "political_ideology": -25.29381419,
+   "gross_state_product": 62.83841667,
+   "inclusivity_score": 0.245122458
+ }
+]

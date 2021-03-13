@@ -126,10 +126,11 @@ export default function (data) {
         tooltip
           .style('display', 'block')
           //.style('left', `${e.offsetX}px`)
-          //.style('top', `${e.offsetY}px`)
+          .style('top', `${e.offsetY}px`)
           .text(d.state),
       )
       .on('mouseleave', (e, d) => tooltip.style('display', 'none'))
+      .style("fill", "#565656")
       //.attr('fill', (_, idx) => interpolateTurbo(idx / 406))
       .attr('r', 5);
   }

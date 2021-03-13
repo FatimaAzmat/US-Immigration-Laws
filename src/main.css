@@ -1,19 +1,9 @@
-/*
-body {
-    font-family: "Source Sans Pro", "Trebuchet MS", "Lucida Grande", "Bitstream Vera Sans", "Helvetica Neue", sans-serif;
-    margin: 0;
-    color: #333;
-    height: 100%;
-}
-*/
-
-
-
 
 body {
     font-family: Fakt,sans-serif;
     font-size: 18px;
     line-height: 1.2;
+    color: #565656;
 }
 
 h1, h2, h3, h4, h5 {
@@ -36,13 +26,28 @@ h1, h2, h3, h4, h5 {
     align-items: center;
 }
 
-.verticalLine {
-  border-left: thick solid #ff0000;
+#title-map {
+    width: 100%;
+    align-items: center;
+    background-color: #fef5f5;
+    padding-right:0px;
+  padding-top: 10px;
+  padding-left: 0px;
+    
+}
+
+#content{
+  width: 60%;
+    align-items: center;
+
 }
 
 #main-content {
   background-image: url(https://i.pinimg.com/736x/59/10/4b/59104b588874f168a9c50fb4bd2eaae4.jpg);
   display: flex;
+  padding-right: 185px;
+  padding-top: 30px;
+  padding-bottom: 20px;
 
 }
 
@@ -59,21 +64,44 @@ h1, h2, h3, h4, h5 {
   background-image: url(https://i.pinimg.com/736x/59/10/4b/59104b588874f168a9c50fb4bd2eaae4.jpg);
   display: flex;
   align-items: center;
-  padding: 50;
+  padding-left: 80px;
+  padding-right: -100px;
+  position: relative;
+  padding-top: 20px;
+}
+
+#end {
+  background-image: url(https://i.pinimg.com/736x/59/10/4b/59104b588874f168a9c50fb4bd2eaae4.jpg);
+  display: flex;
+  padding-top:30px;
+  padding-bottom: 20px;
+
+}
+
+#first-link {
+  background-image: url(https://i.pinimg.com/736x/59/10/4b/59104b588874f168a9c50fb4bd2eaae4.jpg);
+  display: flex;
+
+}
+
+#second-link {
+  background-image: url(https://i.pinimg.com/736x/59/10/4b/59104b588874f168a9c50fb4bd2eaae4.jpg);
+  display: flex;
+  padding-bottom: 30px;
+
 }
 
 
 #app {
   display: flex;
   align-items: center;
-  /* justify-content: center; */
   padding: 100;
   display: flex;
   flex-direction: column;
 }
 
 #tooltip {
-  position: relative;
+  position: absolute;
   pointer-events: none;
   background: #ffd0cf;
   color: white;
